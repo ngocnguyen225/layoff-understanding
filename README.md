@@ -1,0 +1,1 @@
+This project aims to have a comprehensive understanding of the global layoff market. With focus on US market, it analyzes the main factors which lead to high lay off rate and provides informative visualization.
